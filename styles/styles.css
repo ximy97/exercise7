@@ -100,7 +100,7 @@ header .mobile  {
 /* Hero Section Styles */
 
 body .hero{
-    background: url(../savestraws_exercise7/assets/images/seabackgroundstraw.png) ;
+    background: url(/assets/images/seabackgroundstraw.png) ;
     background-position: cover;
     background-size: cover;
    
@@ -169,7 +169,7 @@ margin-bottom: -500px;
 
 /* Add a repeating background image */
 .history img {
-    background-image: url('../SaveStraws/images/mangojuice.png');
+    background-image: url('/images/mangojuice.png');
     background-repeat: repeat;
 }
 
