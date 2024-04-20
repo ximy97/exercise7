@@ -119,23 +119,6 @@ li {
     position: relative;
   }
 
- 
-
-  .navigation .hidden {
-    display: none; 
-    position: absolute;
-    top: 60px; 
-    right: 0; 
-    background-color: #fff; 
-    padding: 10px; 
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3); 
-  }
-
-  .navigation.activeMenu .hidden {
-    display: flex;
-    flex-direction: column;
-  }
-
   li {
     margin: 8px 0;
   }
